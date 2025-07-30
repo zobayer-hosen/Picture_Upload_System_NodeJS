@@ -1,0 +1,13 @@
+git and GitHub
+
+# git is a open source software that is used to track changes to my files.
+
+# GitHub : is a web- based hosting service for git repositories .
+
+Repository 
+# a repository is a collection of files and directories that are sorted together ..
+
+.change the one line
+.change the second line
+.change the third file
+
