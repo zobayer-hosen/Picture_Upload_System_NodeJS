@@ -251,6 +251,7 @@ button[type="submit"]:disabled {
   font-family: "EB Garamond", Georgia, serif;
   font-weight: 500;
   letter-spacing: 0.05em;
+  
 }
 
 .mode-classic .create-post-section,
